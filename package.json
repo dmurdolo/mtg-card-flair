@@ -1,0 +1,8 @@
+{
+  "name": "mtg-card-flair",
+  "version": "0.0.1",
+  "main": "",
+  "repository": "git@github.com:dmurdolo/mtg-card-flair.git",
+  "author": "Daniel Murdolo <dmurdolo@gmail.com>",
+  "license": "MIT"
+}
